@@ -8,7 +8,3 @@
 4. [GitCLI](https://git-scm.com/install/)
 
 Create a new environment for the project
-
-```
-conda craete -p venv python==3.7 -y
-```
